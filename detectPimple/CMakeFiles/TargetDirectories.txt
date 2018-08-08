@@ -1,0 +1,3 @@
+/Users/horizon/Desktop/OpenCV/workspace/detectPimple/CMakeFiles/rebuild_cache.dir
+/Users/horizon/Desktop/OpenCV/workspace/detectPimple/CMakeFiles/edit_cache.dir
+/Users/horizon/Desktop/OpenCV/workspace/detectPimple/CMakeFiles/detect_pimple.dir
